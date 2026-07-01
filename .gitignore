@@ -10,3 +10,5 @@ npm-debug.log*
 
 # VS Code
 .vscode/
+
+data/photo_index.json
