@@ -1,17 +1,30 @@
-import { getRootTree } from "./pcloud.js";
+import fs from "fs/promises";
+import { scanAllMedia } from "./pcloud.js";
 
 async function main() {
 
-    console.log("Connecting to pCloud...");
+    console.log("Start scanning pCloud...");
 
-    const tree = await getRootTree();
+    const media = await scanAllMedia();
 
-    console.log("Connected!");
+    const output = {
+        generatedAt: new Date().toISOString(),
+        count: media.length,
+        files: media
+    };
 
-    console.log(tree.name);
+    await fs.mkdir("data", { recursive: true });
 
-    console.log(tree.contents.length);
+    await fs.writeFile(
+        "data/photo_index.json",
+        JSON.stringify(output, null, 2)
+    );
 
+    console.log("photo_index.json generated.");
+    console.log(`Media files: ${media.length}`);
 }
 
-main().catch(console.error);
+main().catch(err => {
+    console.error(err);
+    process.exit(1);
+});
