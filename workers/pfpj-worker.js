@@ -61,19 +61,23 @@ export default {
 
     try {
       if (url.pathname === "/image") {
-        const { photo } = await getRandomPhoto(env);
-        const imageUrl = await getPCloudFileUrl(env, photo.fileid);
+        const fileid = url.searchParams.get("fileid");
 
-        const imageRes = await fetch(imageUrl);
+      if (!fileid) {
+        throw new Error("Missing fileid");
+        }
+
+      const imageUrl = await getPCloudFileUrl(env, fileid);
+     const imageRes = await fetch(imageUrl);
 
         return new Response(imageRes.body, {
-          headers: {
-            ...CORS_HEADERS,
-            "content-type": imageRes.headers.get("content-type") || "image/jpeg",
-            "cache-control": "no-store"
-          }
-        });
-      }
+        headers: {
+      ...CORS_HEADERS,
+      "content-type": imageRes.headers.get("content-type") || "image/jpeg",
+      "cache-control": "no-store"
+    }
+  });
+}
 
       const { manifest, chunkInfo, photo } = await getRandomPhoto(env);
       const imageUrl = await getPCloudFileUrl(env, photo.fileid);
@@ -86,7 +90,7 @@ export default {
           photo: {
             ...photo,
             url: imageUrl,
-            proxyUrl: `${url.origin}/image`
+            proxyUrl: `${url.origin}/image?fileid=${photo.fileid}`
           }
         },
         { headers: CORS_HEADERS }

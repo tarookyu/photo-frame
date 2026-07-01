@@ -33,8 +33,7 @@ async function showNextPhoto() {
   try {
     const photo = await fetchRandomPhoto();
 
-    const imageUrl = `${photo.proxyUrl}?t=${Date.now()}`;
-
+    const imageUrl = `${photo.proxyUrl}&t=${Date.now()}`;
 
     await preload(imageUrl);
     back.style.backgroundImage = `url("${imageUrl}")`;
