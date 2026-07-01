@@ -1,4 +1,5 @@
 # macOS
+.env
 .DS_Store
 
 # Node.js
