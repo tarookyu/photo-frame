@@ -33,9 +33,11 @@ async function showNextPhoto() {
   try {
     const photo = await fetchRandomPhoto();
 
-    await preload(photo.proxyUrl);
+    const imageUrl = `${photo.proxyUrl}?t=${Date.now()}`;
 
-    back.style.backgroundImage = `url("${photo.proxyUrl}")`;
+
+    await preload(imageUrl);
+    back.style.backgroundImage = `url("${imageUrl}")`;
 
 
     back.classList.remove("zoom1", "zoom2", "zoom3", "zoom4");
