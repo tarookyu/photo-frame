@@ -16,7 +16,6 @@ export async function getRootTree() {
         params: {
             access_token: TOKEN,
             folderid: 0,
-            recursive: 1,
             showdeleted: 0,
             noshares: 1
         }
