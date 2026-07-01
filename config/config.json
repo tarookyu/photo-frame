@@ -1,0 +1,9 @@
+{
+  "displaySeconds": 30,
+  "fadeSeconds": 2,
+  "kenBurns": true,
+  "shuffle": true,
+  "fitMode": "contain",
+  "background": "#000000",
+  "preloadCount": 2
+}
