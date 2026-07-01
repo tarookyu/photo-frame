@@ -27,5 +27,6 @@ export async function getRootTree() {
         );
     }
 
+    console.log(JSON.stringify(response.data, null, 2));
     return response.data.metadata;
 }
