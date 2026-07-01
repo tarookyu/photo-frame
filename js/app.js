@@ -1,24 +1,6 @@
-// ============================================
-// pCloud PFPJ
-// Version : 1.0 Alpha
-// Part 1
-// ============================================
+const WORKER_URL = "https://pcloud-pfpj-worker.fqxjx219.workers.dev";
 
-cconst CONFIG = {
-    displaySeconds: 30,
-    fadeSeconds: 2,
-    kenBurns: true,
-    fitMode: "contain",
-    shuffle: true,
-    background: "#000000",
-    preloadCount: 2
-};
-
-let photos = [];
-let playQueue = [];
-let currentIndex = 0;
-
-const imageCache = new Map();
+const DISPLAY_SECONDS = 30;
 
 const slideA = document.getElementById("slideA");
 const slideB = document.getElementById("slideB");
@@ -27,67 +9,63 @@ const loading = document.getElementById("loading");
 let front = slideA;
 let back = slideB;
 
-async function start() {
+async function fetchRandomPhoto() {
+  const res = await fetch(WORKER_URL, { cache: "no-store" });
+  const data = await res.json();
 
-    console.log("pCloud PFPJ Starting...");
+  if (!data.ok || !data.photo?.url) {
+    throw new Error(data.error || "写真URLを取得できませんでした");
+  }
 
-    await loadConfig();
-
-    await loadPhotos();
-
-    createShuffleQueue();
-
-    showCurrentPhoto();
-
-    preloadNext();
-
-    setInterval(nextPhoto, CONFIG.displaySeconds * 1000);
-
+  return data.photo;
 }
 
-async function loadConfig() {
-
-    try {
-
-        const response = await fetch("config/config.json");
-
-        if (response.ok) {
-
-            const json = await response.json();
-
-            Object.assign(CONFIG, json);
-
-        }
-
-        document.body.style.background = CONFIG.background;
-
-        console.log("Config Loaded", CONFIG);
-
-    } catch (err) {
-
-        console.warn("config.json を読み込めませんでした。デフォルト設定を使用します。");
-
-    }
-
+function preload(url) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    img.onload = resolve;
+    img.onerror = reject;
+    img.src = url;
+  });
 }
 
-async function loadPhotos() {
+async function showNextPhoto() {
+  try {
+    const photo = await fetchRandomPhoto();
 
-    const response =
-        await fetch("data/photos.json");
+    await preload(photo.proxyUrl);
 
-    if (!response.ok) {
+    back.style.backgroundImage = `url("${photo.proxyUrl}")`;
 
-        throw new Error("photos.json not found");
 
+    back.classList.remove("zoom1", "zoom2", "zoom3", "zoom4");
+    void back.offsetWidth;
+
+    const effects = ["zoom1", "zoom2", "zoom3", "zoom4"];
+    const effect = effects[Math.floor(Math.random() * effects.length)];
+    back.classList.add(effect);
+
+    back.classList.add("show");
+    front.classList.remove("show");
+
+    loading?.classList.add("hide");
+
+    [front, back] = [back, front];
+
+    console.log("Showing:", photo.name);
+  } catch (error) {
+    console.error(error);
+
+    if (loading) {
+      loading.classList.remove("hide");
+      loading.innerHTML = `
+        <h1>pCloud PFPJ</h1>
+        <p style="color:red">${error.message}</p>
+      `;
     }
-
-    photos = await response.json();
-
-    if (photos.length === 0) {
-
-        throw new Error("No photos.");
-
-    }
-
+  }
 }
+
+showNextPhoto();
+
+setInterval(showNextPhoto, DISPLAY_SECONDS * 1000);

@@ -1,0 +1,13 @@
+{
+	"name": "pcloud-pfpj-worker",
+	"main": "workers/pfpj-worker.js",
+	"compatibility_date": "2026-07-01",
+	"kv_namespaces": [
+		{
+			"binding": "PFPJ_INDEX",
+			"id": "d49872b21f2c4295b0440d8d878a88fe",
+			"remote": true
+		}
+	]
+}
+
