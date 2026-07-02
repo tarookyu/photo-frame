@@ -34,6 +34,28 @@ async function getPCloudFileUrl(env, fileid) {
   return `https://${host}${data.path}`;
 }
 
+async function fetchWithRetry(url, options = {}, retries = 3) {
+  let lastError;
+
+  for (let i = 0; i < retries; i++) {
+    try {
+      const res = await fetch(url, options);
+
+      if (res.ok) {
+        return res;
+      }
+
+      lastError = new Error(`Fetch failed: ${res.status}`);
+    } catch (error) {
+      lastError = error;
+    }
+
+    await new Promise((resolve) => setTimeout(resolve, 500 * (i + 1)));
+  }
+
+  throw lastError;
+}
+
 async function getRandomPhoto(env) {
   const manifest = await getJsonFromKV(env, "pfpj:index:manifest");
 
@@ -68,7 +90,7 @@ export default {
         }
 
       const imageUrl = await getPCloudFileUrl(env, fileid);
-     const imageRes = await fetch(imageUrl);
+     const imageRes = await fetchWithRetry(imageUrl, {}, 3);
 
         return new Response(imageRes.body, {
         headers: {
