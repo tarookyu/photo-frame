@@ -1,8 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-01T14:55:56.760Z",
-  "total": 69867,
+  "generatedAt": "2026-07-02T02:54:02.064Z",
+  "total": 69679,
   "chunkSize": 1000,
+  "excludedPathKeywords": [
+    "TOSHIBA_Qosmio_to_20161110/test"
+  ],
   "chunks": [
     {
       "key": "pfpj:index:chunk_00000.json",
@@ -352,7 +355,7 @@
     {
       "key": "pfpj:index:chunk_00069.json",
       "file": "chunk_00069.json",
-      "count": 867
+      "count": 679
     }
   ]
 }

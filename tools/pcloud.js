@@ -72,33 +72,37 @@ function isVideo(file) {
 }
 
 export async function scanAllMedia() {
-  const queue = [0];
+  const queue = [{ folderId: 0, folderPath: "/" }];
   const media = [];
 
   while (queue.length > 0) {
-    const folderId = queue.shift();
+    const { folderId, folderPath } = queue.shift();
     const folder = await listFolder(folderId);
 
-    console.log(`Scanning: ${folder.name}`);
+    console.log(`Scanning: ${folderPath}`);
 
-    if (!folder.contents) {
-      continue;
-    }
+    if (!folder.contents) continue;
 
     for (const item of folder.contents) {
+      const itemPath =
+        folderPath === "/"
+          ? `/${item.name}`
+          : `${folderPath}/${item.name}`;
+
       if (item.isfolder) {
-        queue.push(item.folderid);
+        queue.push({
+          folderId: item.folderid,
+          folderPath: itemPath
+        });
         continue;
       }
 
-      if (!isImage(item) && !isVideo(item)) {
-        continue;
-      }
+      if (!isImage(item) && !isVideo(item)) continue;
 
       media.push({
         fileid: item.fileid,
-        path: item.path,
         name: item.name,
+        path: itemPath,
         size: item.size,
         created: item.created,
         modified: item.modified,

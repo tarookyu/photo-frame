@@ -5,14 +5,27 @@ const INPUT = "data/photo_index.json";
 const OUT_DIR = "data/kv-index";
 const CHUNK_SIZE = 1000;
 
+const EXCLUDED_PATH_KEYWORDS = [
+  "TOSHIBA_Qosmio_to_20161110/test"
+];
+
 async function main() {
   const raw = await fs.readFile(INPUT, "utf-8");
   const index = JSON.parse(raw);
 
   const files = index.files ?? [];
 
+
+
   const media = files
     .filter((file) => !file.isVideo)
+    .filter((file) => {
+      const filePath = (file.path || "").toLowerCase();
+
+      return !EXCLUDED_PATH_KEYWORDS.some((keyword) =>
+        filePath.includes(keyword.toLowerCase())
+      );
+    })
     .map((file) => ({
       fileid: file.fileid,
       name: file.name,
@@ -50,6 +63,7 @@ async function main() {
     generatedAt: new Date().toISOString(),
     total: media.length,
     chunkSize: CHUNK_SIZE,
+    excludedPathKeywords: EXCLUDED_PATH_KEYWORDS,
     chunks
   };
 
@@ -58,7 +72,7 @@ async function main() {
     JSON.stringify(manifest, null, 2)
   );
 
-  console.log(`KV index generated.`);
+  console.log("KV index generated.");
   console.log(`Photos: ${media.length}`);
   console.log(`Chunks: ${chunks.length}`);
 }
