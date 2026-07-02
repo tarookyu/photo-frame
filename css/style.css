@@ -25,7 +25,7 @@ body {
   inset: 0;
   opacity: 0;
   overflow: hidden;
-  transition: opacity 2.5s ease-in-out;
+  transition: opacity 2.8s ease-in-out;
   background: #000;
 }
 
@@ -36,13 +36,13 @@ body {
 .slide::before {
   content: "";
   position: absolute;
-  inset: -6%;
+  inset: -8%;
   background-image: var(--photo-url);
   background-size: cover;
   background-position: center;
-  filter: blur(28px);
-  opacity: 0.45;
-  transform: scale(1.08);
+  filter: blur(34px);
+  opacity: 0.5;
+  transform: scale(1.12);
 }
 
 .slide::after {
@@ -50,46 +50,62 @@ body {
   position: absolute;
   inset: 0;
   background-image: var(--photo-url);
-  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
+  background-size: var(--fit-mode, contain);
   transform-origin: center;
 }
 
-.zoom1::after {
-  animation: kenburns1 30s ease-in-out forwards;
+/* 横写真向け：大きめ・ダイナミック */
+.landscape.kb1::after { animation: landscape1 30s ease-in-out forwards; }
+.landscape.kb2::after { animation: landscape2 30s ease-in-out forwards; }
+.landscape.kb3::after { animation: landscape3 30s ease-in-out forwards; }
+.landscape.kb4::after { animation: landscape4 30s ease-in-out forwards; }
+
+/* 縦写真向け：全体表示を残しつつ控えめ */
+.portrait.kb1::after { animation: portrait1 30s ease-in-out forwards; }
+.portrait.kb2::after { animation: portrait2 30s ease-in-out forwards; }
+.portrait.kb3::after { animation: portrait3 30s ease-in-out forwards; }
+.portrait.kb4::after { animation: portrait4 30s ease-in-out forwards; }
+
+@keyframes landscape1 {
+  from { transform: scale(1.18) translate(-4%, -2%); }
+  to   { transform: scale(1.38) translate(4%, 2%); }
 }
 
-.zoom2::after {
-  animation: kenburns2 30s ease-in-out forwards;
+@keyframes landscape2 {
+  from { transform: scale(1.38) translate(4%, 2%); }
+  to   { transform: scale(1.18) translate(-4%, -2%); }
 }
 
-.zoom3::after {
-  animation: kenburns3 30s ease-in-out forwards;
+@keyframes landscape3 {
+  from { transform: scale(1.22) translate(-7%, 0); }
+  to   { transform: scale(1.42) translate(7%, 0); }
 }
 
-.zoom4::after {
-  animation: kenburns4 30s ease-in-out forwards;
+@keyframes landscape4 {
+  from { transform: scale(1.22) translate(0, -6%); }
+  to   { transform: scale(1.42) translate(0, 6%); }
 }
 
-@keyframes kenburns1 {
-  from { transform: scale(1.02) translate(0, 0); }
-  to   { transform: scale(1.22) translate(-3%, -2%); }
+@keyframes portrait1 {
+  from { transform: scale(1.00) translate(0, 0); }
+  to   { transform: scale(1.12) translate(-2%, -2%); }
 }
 
-@keyframes kenburns2 {
-  from { transform: scale(1.22) translate(3%, 2%); }
-  to   { transform: scale(1.02) translate(0, 0); }
+@keyframes portrait2 {
+  from { transform: scale(1.12) translate(2%, 2%); }
+  to   { transform: scale(1.00) translate(0, 0); }
 }
 
-@keyframes kenburns3 {
-  from { transform: scale(1.08) translate(-5%, 0); }
-  to   { transform: scale(1.22) translate(5%, 0); }
+@keyframes portrait3 {
+  from { transform: scale(1.04) translate(-3%, 0); }
+  to   { transform: scale(1.12) translate(3%, 0); }
 }
 
-@keyframes kenburns4 {
-  from { transform: scale(1.08) translate(0, -5%); }
-  to   { transform: scale(1.22) translate(0, 5%); }
+@keyframes portrait4 {
+  from { transform: scale(1.04) translate(0, -3%); }
+  to   { transform: scale(1.12) translate(0, 3%); }
 }
 
 #loading {
@@ -102,6 +118,7 @@ body {
   align-items: center;
   color: white;
   background: #000;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 #loading.hide {

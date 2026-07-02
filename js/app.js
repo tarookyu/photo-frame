@@ -32,6 +32,22 @@ function preload(url) {
   });
 }
 
+function detectPortrait(url) {
+  return new Promise((resolve) => {
+    const img = new Image();
+
+    img.onload = () => {
+      resolve(img.naturalHeight > img.naturalWidth);
+    };
+
+    img.onerror = () => {
+      resolve(false);
+    };
+
+    img.src = url;
+  });
+}
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -68,11 +84,19 @@ async function showNextPhoto() {
 
     back.style.setProperty("--photo-url", `url("${imageUrl}")`);
     back.style.backgroundImage = "";
-
-    back.classList.remove("zoom1", "zoom2", "zoom3", "zoom4");
+    const isPortrait = await detectPortrait(imageUrl);
+    back.classList.remove(
+        "landscape",
+        "portrait",
+        "kb1",
+        "kb2",
+        "kb3",
+        "kb4"
+    );
+    back.classList.add(isPortrait ? "portrait" : "landscape");
+    back.style.setProperty("--fit-mode", isPortrait ? "contain" : "cover");
     void back.offsetWidth;
-
-    const effects = ["zoom1", "zoom2", "zoom3", "zoom4"];
+    const effects = ["kb1", "kb2", "kb3", "kb4"];
     const effect = effects[Math.floor(Math.random() * effects.length)];
     back.classList.add(effect);
 
