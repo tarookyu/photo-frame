@@ -4,11 +4,12 @@
   "description": "pCloud Photo Frame Project",
   "private": true,
   "type": "module",
-  "scripts": {
-    "build-index": "node tools/generate-index.js",
-    "build-kv-index": "node tools/build-kv-index.js",
-    "upload-kv-index": "node tools/upload-kv-index.js"
-  },
+ "scripts": {
+  "build-index": "node tools/generate-index.js",
+  "build-kv-index": "node tools/build-kv-index.js",
+  "upload-kv-index": "node tools/upload-kv-index.js",
+  "refresh-kv": "npm run build-index && npm run build-kv-index && npm run upload-kv-index"
+},
   "dependencies": {
     "axios": "^1.11.0",
     "dotenv": "^17.4.2",
