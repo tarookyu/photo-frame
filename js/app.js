@@ -66,7 +66,8 @@ async function showNextPhoto() {
   try {
     const { photo, imageUrl } = await getNextPhotoWithRetry();
 
-    back.style.backgroundImage = `url("${imageUrl}")`;
+    back.style.setProperty("--photo-url", `url("${imageUrl}")`);
+    back.style.backgroundImage = "";
 
     back.classList.remove("zoom1", "zoom2", "zoom3", "zoom4");
     void back.offsetWidth;
