@@ -6,7 +6,9 @@ const OUT_DIR = "data/kv-index";
 const CHUNK_SIZE = 1000;
 
 const EXCLUDED_PATH_KEYWORDS = [
-  "TOSHIBA_Qosmio_to_20161110/test"
+  "TOSHIBA_Qosmio_to_20161110/test",
+  "My Pictures/Airsoft/custom",
+  "My Pictures/Airsoft/【OLD】"
 ];
 
 async function main() {

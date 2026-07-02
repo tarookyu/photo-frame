@@ -1,10 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-02T02:54:02.064Z",
-  "total": 69679,
+  "generatedAt": "2026-07-02T11:29:46.549Z",
+  "total": 63524,
   "chunkSize": 1000,
   "excludedPathKeywords": [
-    "TOSHIBA_Qosmio_to_20161110/test"
+    "TOSHIBA_Qosmio_to_20161110/test",
+    "My Pictures/Airsoft/custom",
+    "My Pictures/Airsoft/【OLD】"
   ],
   "chunks": [
     {
@@ -325,37 +327,7 @@
     {
       "key": "pfpj:index:chunk_00063.json",
       "file": "chunk_00063.json",
-      "count": 1000
-    },
-    {
-      "key": "pfpj:index:chunk_00064.json",
-      "file": "chunk_00064.json",
-      "count": 1000
-    },
-    {
-      "key": "pfpj:index:chunk_00065.json",
-      "file": "chunk_00065.json",
-      "count": 1000
-    },
-    {
-      "key": "pfpj:index:chunk_00066.json",
-      "file": "chunk_00066.json",
-      "count": 1000
-    },
-    {
-      "key": "pfpj:index:chunk_00067.json",
-      "file": "chunk_00067.json",
-      "count": 1000
-    },
-    {
-      "key": "pfpj:index:chunk_00068.json",
-      "file": "chunk_00068.json",
-      "count": 1000
-    },
-    {
-      "key": "pfpj:index:chunk_00069.json",
-      "file": "chunk_00069.json",
-      "count": 679
+      "count": 524
     }
   ]
 }
