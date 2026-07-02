@@ -69,23 +69,23 @@ body {
 .portrait.kb4::after { animation: portrait4 30s ease-in-out forwards; }
 
 @keyframes landscape1 {
-  from { transform: scale(1.18) translate(-4%, -2%); }
-  to   { transform: scale(1.38) translate(4%, 2%); }
+ from { transform: scale(1.25) translate(-10%, -6%); }
+ to   { transform: scale(1.55) translate(10%, 6%); }
 }
 
 @keyframes landscape2 {
-  from { transform: scale(1.38) translate(4%, 2%); }
-  to   { transform: scale(1.18) translate(-4%, -2%); }
+    from { transform: scale(1.55) translate(10%, 6%); }
+    to   { transform: scale(1.25) translate(-10%, -6%); }
 }
 
 @keyframes landscape3 {
-  from { transform: scale(1.22) translate(-7%, 0); }
-  to   { transform: scale(1.42) translate(7%, 0); }
+    from { transform: scale(1.30) translate(-14%, 0); }
+    to   { transform: scale(1.60) translate(14%, 0); }
 }
 
 @keyframes landscape4 {
-  from { transform: scale(1.22) translate(0, -6%); }
-  to   { transform: scale(1.42) translate(0, 6%); }
+  from { transform: scale(1.30) translate(0, -12%); }
+  to   { transform: scale(1.60) translate(0, 12%); }
 }
 
 @keyframes portrait1 {
