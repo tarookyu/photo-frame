@@ -6,9 +6,11 @@ const OUT_DIR = "data/kv-index";
 const CHUNK_SIZE = 1000;
 
 const EXCLUDED_PATH_KEYWORDS = [
-  "TOSHIBA_Qosmio_to_20161110/test",
-  "My Pictures/Airsoft/custom",
-  "My Pictures/Airsoft/【OLD】"
+  "/My Pictures/TOSHIBA_Qosmio_to_20161110/test",
+  "/My Pictures/Airsoft/custom",
+  "/My Pictures/Airsoft/【OLD】",
+  "/My Pictures/Xiaomi_11TPro/20220827-20220919/草津体験旅",
+  "/other"
 ];
 
 async function main() {
@@ -17,17 +19,25 @@ async function main() {
 
   const files = index.files ?? [];
 
-
+let excludedCount = 0;
 
   const media = files
     .filter((file) => !file.isVideo)
     .filter((file) => {
-      const filePath = (file.path || "").toLowerCase();
+  const filePath = (file.path || "").toLowerCase();
 
-      return !EXCLUDED_PATH_KEYWORDS.some((keyword) =>
-        filePath.includes(keyword.toLowerCase())
-      );
-    })
+  const excluded = EXCLUDED_PATH_KEYWORDS.some((keyword) =>
+    filePath.includes(keyword.toLowerCase())
+  );
+
+  if (excluded) {
+    excludedCount++;
+  }
+
+  return !excluded;
+})
+
+
     .map((file) => ({
       fileid: file.fileid,
       name: file.name,
@@ -77,6 +87,7 @@ async function main() {
   console.log("KV index generated.");
   console.log(`Photos: ${media.length}`);
   console.log(`Chunks: ${chunks.length}`);
+  console.log(`Excluded: ${excludedCount}`);
 }
 
 main().catch((error) => {

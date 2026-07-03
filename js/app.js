@@ -6,6 +6,7 @@ const MAX_RETRY = 3;
 const slideA = document.getElementById("slideA");
 const slideB = document.getElementById("slideB");
 const loading = document.getElementById("loading");
+const photoInfo = document.getElementById("photoInfo");
 
 let front = slideA;
 let back = slideB;
@@ -50,6 +51,38 @@ function detectPortrait(url) {
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function buildBreadcrumb(photo) {
+  if (!photo.path) return "";
+
+  const parts = photo.path
+    .split("/")
+    .filter(Boolean);
+
+  parts.pop();
+
+  if (parts.length === 0) return "";
+
+  return `📁 ${parts.join(" › ")}`;
+}
+
+function showPhotoInfo(photo) {
+  if (!photoInfo) return;
+
+  const breadcrumb = buildBreadcrumb(photo);
+
+  if (!breadcrumb) {
+    photoInfo.classList.remove("show");
+    return;
+  }
+
+  photoInfo.textContent = breadcrumb;
+  photoInfo.classList.add("show");
+
+  setTimeout(() => {
+    photoInfo.classList.remove("show");
+  }, 7000);
 }
 
 async function getNextPhotoWithRetry() {
@@ -108,6 +141,8 @@ async function showNextPhoto() {
     [front, back] = [back, front];
 
     lastFileId = photo.fileid;
+
+    showPhotoInfo(photo);
 
     console.log("Showing:", photo.name);
   } catch (error) {

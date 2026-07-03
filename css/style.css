@@ -124,3 +124,31 @@ body {
 #loading.hide {
   display: none;
 }
+
+.photo-info {
+  position: absolute;
+  right: 24px;
+  bottom: 22px;
+  z-index: 20;
+  max-width: 70vw;
+  padding: 10px 14px;
+  color: rgba(255, 255, 255, 0.88);
+  background: rgba(0, 0, 0, 0.36);
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+  font-size: 14px;
+  line-height: 1.5;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 1.2s ease, transform 1.2s ease;
+  pointer-events: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.photo-info.show {
+  opacity: 1;
+  transform: translateY(0);
+}

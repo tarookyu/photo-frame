@@ -1,12 +1,14 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-02T11:29:46.549Z",
-  "total": 63524,
+  "generatedAt": "2026-07-03T05:02:19.994Z",
+  "total": 61443,
   "chunkSize": 1000,
   "excludedPathKeywords": [
-    "TOSHIBA_Qosmio_to_20161110/test",
-    "My Pictures/Airsoft/custom",
-    "My Pictures/Airsoft/【OLD】"
+    "/My Pictures/TOSHIBA_Qosmio_to_20161110/test",
+    "/My Pictures/Airsoft/custom",
+    "/My Pictures/Airsoft/【OLD】",
+    "/My Pictures/Xiaomi_11TPro/20220827-20220919/草津体験旅",
+    "/other"
   ],
   "chunks": [
     {
@@ -317,17 +319,7 @@
     {
       "key": "pfpj:index:chunk_00061.json",
       "file": "chunk_00061.json",
-      "count": 1000
-    },
-    {
-      "key": "pfpj:index:chunk_00062.json",
-      "file": "chunk_00062.json",
-      "count": 1000
-    },
-    {
-      "key": "pfpj:index:chunk_00063.json",
-      "file": "chunk_00063.json",
-      "count": 524
+      "count": 443
     }
   ]
 }
