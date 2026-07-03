@@ -46,7 +46,8 @@ let excludedCount = 0;
       size: file.size,
       created: file.created,
       modified: file.modified,
-      hash: file.hash
+      hash: file.hash,
+      exif: file.exif || null
     }));
 
   await fs.rm(OUT_DIR, { recursive: true, force: true });

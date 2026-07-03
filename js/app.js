@@ -67,17 +67,38 @@ function buildBreadcrumb(photo) {
   return `📁 ${parts.join(" › ")}`;
 }
 
+function buildExifText(photo) {
+  const exif = photo.exif;
+
+  if (!exif) return "";
+
+  const camera = exif.camera ? `📷 ${exif.camera}` : "";
+  const lens = exif.lens ? `🔍 ${exif.lens}` : "";
+
+  const settings = [
+    exif.focalLength ? `${exif.focalLength}mm` : null,
+    exif.fNumber ? `F${exif.fNumber}` : null,
+    exif.shutter,
+    exif.iso ? `ISO${exif.iso}` : null
+  ].filter(Boolean).join("  ");
+
+  return [camera, lens, settings].filter(Boolean).join("\n");
+}
+
 function showPhotoInfo(photo) {
   if (!photoInfo) return;
 
   const breadcrumb = buildBreadcrumb(photo);
+  const exifText = buildExifText(photo);
 
-  if (!breadcrumb) {
+  const lines = [exifText, breadcrumb].filter(Boolean);
+
+  if (lines.length === 0) {
     photoInfo.classList.remove("show");
     return;
   }
 
-  photoInfo.textContent = breadcrumb;
+  photoInfo.textContent = lines.join("\n");
   photoInfo.classList.add("show");
 
   setTimeout(() => {

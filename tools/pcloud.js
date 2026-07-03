@@ -118,3 +118,41 @@ export async function scanAllMedia() {
 
   return media;
 }
+
+export async function getFileDownloadUrl(fileid) {
+  const res = await api.get("/getfilelink", {
+    params: {
+      access_token: TOKEN,
+      fileid: String(fileid),
+      skipfilename: 1
+    }
+  });
+
+  if (res.data.result !== 0) {
+    throw new Error(`pCloud getfilelink error ${res.data.result}: ${res.data.error}`);
+  }
+
+  const host = res.data.hosts?.[0];
+
+  if (!host || !res.data.path) {
+    throw new Error("pCloud getfilelink did not return host/path");
+  }
+
+  return `https://${host}${res.data.path}`;
+}
+
+export async function getFileHeadBuffer(fileid, bytes = 262144) {
+  const url = await getFileDownloadUrl(fileid);
+
+  const res = await fetch(url, {
+    headers: {
+      Range: `bytes=0-${bytes - 1}`
+    }
+  });
+
+  if (!res.ok && res.status !== 206) {
+    throw new Error(`Failed to fetch file head: ${res.status}`);
+  }
+
+  return Buffer.from(await res.arrayBuffer());
+}
