@@ -2806,5 +2806,3668 @@
     "iso": 3200,
     "shutter": "1/125",
     "takenAt": "2025-12-30T03:09:46.000Z"
+  },
+  "86701028932:13709563523437371000": {
+    "camera": "Canon EOS 5D Mark III",
+    "lens": "EF24-105mm f/4L IS USM",
+    "focalLength": 55,
+    "fNumber": 4,
+    "iso": 4000,
+    "shutter": "1/125",
+    "takenAt": "2025-12-30T03:10:15.000Z"
+  },
+  "86701029121:1848976530089535200": {
+    "camera": "Canon EOS 5D Mark III",
+    "lens": "EF24-105mm f/4L IS USM",
+    "focalLength": 55,
+    "fNumber": 4,
+    "iso": 4000,
+    "shutter": "1/125",
+    "takenAt": "2025-12-30T03:10:16.000Z"
+  },
+  "86701029273:8566784941967375000": {
+    "camera": "Canon EOS 5D Mark III",
+    "lens": "EF24-105mm f/4L IS USM",
+    "focalLength": 58,
+    "fNumber": 4,
+    "iso": 4000,
+    "shutter": "1/125",
+    "takenAt": "2025-12-30T03:10:23.000Z"
+  },
+  "86701029400:15056497214598087000": {
+    "camera": "Canon EOS 5D Mark III",
+    "lens": "EF24-105mm f/4L IS USM",
+    "focalLength": 73,
+    "fNumber": 4,
+    "iso": 4000,
+    "shutter": "1/125",
+    "takenAt": "2025-12-30T03:11:21.000Z"
+  },
+  "86701030718:7866635799473692000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:33:26.000Z"
+  },
+  "86701030895:10739781426277175000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 28,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:34:04.000Z"
+  },
+  "86701031066:7518796640611251000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:34:11.000Z"
+  },
+  "86701031238:3613275327173716500": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 28,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:34:36.000Z"
+  },
+  "86701031429:8083412939966064000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 28,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:34:54.000Z"
+  },
+  "86701031633:14021581376107970000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 31,
+    "fNumber": 4.5,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:35:02.000Z"
+  },
+  "86701031857:16064073533967817000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 55,
+    "fNumber": 4.5,
+    "iso": 3200,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:36:05.000Z"
+  },
+  "86701032006:5074544022939263000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 53,
+    "fNumber": 5,
+    "iso": 4000,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:36:18.000Z"
+  },
+  "86701032825:13369994334756262000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 53,
+    "fNumber": 5,
+    "iso": 4000,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:37:04.000Z"
+  },
+  "86701032957:13640596716975215000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 53,
+    "fNumber": 5,
+    "iso": 4000,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:37:09.000Z"
+  },
+  "86701033074:4362173502991493000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:39:08.000Z"
+  },
+  "86701033187:11531791302334760000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:39:17.000Z"
+  },
+  "86701033288:12034728544423877000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:39:29.000Z"
+  },
+  "86701033398:4212059552011785700": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 39,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:39:49.000Z"
+  },
+  "86701033542:3755077553994228000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:40:40.000Z"
+  },
+  "86701033786:538068901420684160": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:40:54.000Z"
+  },
+  "86701034765:8569979537974964000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:40:57.000Z"
+  },
+  "86701034905:4074497033545817600": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:40:58.000Z"
+  },
+  "86701034978:3481364401248329700": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 38,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:41:19.000Z"
+  },
+  "86701035278:11408308403652747000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 38,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:41:41.000Z"
+  },
+  "86701035514:7574398768690031000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 41,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:46:28.000Z"
+  },
+  "86701035678:5217176915833345000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 42,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:46:36.000Z"
+  },
+  "86701036465:15843357751660628000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 42,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:46:42.000Z"
+  },
+  "86701036612:7388748110506365000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 38,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:46:57.000Z"
+  },
+  "86701036794:8567376264421271000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2023-11-08T00:47:04.000Z"
+  },
+  "86701036961:12914697858743489000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 65,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:09:03.000Z"
+  },
+  "86701037092:3791592193674308000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:09:14.000Z"
+  },
+  "86701037204:9964060508775967000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 59,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:09:38.000Z"
+  },
+  "86701037311:10387154942435564000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:09:57.000Z"
+  },
+  "86701037426:1053578966140070800": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 42,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:10:16.000Z"
+  },
+  "86701038218:14923647534543931000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:12:04.000Z"
+  },
+  "86701038381:16268878408707144000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:12:48.000Z"
+  },
+  "86701038613:17188121391279830000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 39,
+    "fNumber": 4.5,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:13:34.000Z"
+  },
+  "86701038854:3052061256412258300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 55,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:14:27.000Z"
+  },
+  "86701039058:2163290924193245000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 53,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:14:34.000Z"
+  },
+  "86701039276:8722297296192143000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 55,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:15:26.000Z"
+  },
+  "86701039434:2901053837505637000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 55,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:15:46.000Z"
+  },
+  "86701039598:17747276718181958000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 55,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:17:09.000Z"
+  },
+  "86701041201:6250070745007000000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 67,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:17:13.000Z"
+  },
+  "86701041475:4162480368262672000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 59,
+    "fNumber": 4.5,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:18:06.000Z"
+  },
+  "86701041767:18133158901198910000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:18:52.000Z"
+  },
+  "86701042002:17839769515709942000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:18:57.000Z"
+  },
+  "86701042286:5000769728481404000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 57,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:19:14.000Z"
+  },
+  "86701042439:11963132557301310000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 39,
+    "fNumber": 4.5,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:20:08.000Z"
+  },
+  "86701042617:10958878844782344000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 45,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:21:01.000Z"
+  },
+  "86701042848:4042634069464837000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 53,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:22:25.000Z"
+  },
+  "86701044381:15986264058099855000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:23:00.000Z"
+  },
+  "86701044659:13625873873825540000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:23:52.000Z"
+  },
+  "86701044948:15478497111174142000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 4,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:27:47.000Z"
+  },
+  "86701045138:3600234755132177000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 42,
+    "fNumber": 4,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-08-01T01:28:06.000Z"
+  },
+  "86701045321:13274291154571830000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 4.5,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:45:16.000Z"
+  },
+  "86701045572:17733101255778363000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:45:20.000Z"
+  },
+  "86701047241:11934373010796390000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 42,
+    "fNumber": 4.5,
+    "iso": 3200,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:45:34.000Z"
+  },
+  "86701047445:704858793519302700": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 42,
+    "fNumber": 4.5,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:45:37.000Z"
+  },
+  "86701047698:17392250790298860000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 41,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:45:49.000Z"
+  },
+  "86701047978:8220760907248177000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:46:40.000Z"
+  },
+  "86701048201:12616959394116782000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 45,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:46:47.000Z"
+  },
+  "86701048343:14307861651998712000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 45,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:46:49.000Z"
+  },
+  "86701048602:2565185927332879000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 45,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:46:50.000Z"
+  },
+  "86701048799:11116643316974418000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:47:12.000Z"
+  },
+  "86701050360:17183484013259293000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:47:13.000Z"
+  },
+  "86701050591:143087959323332720": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 41,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:47:21.000Z"
+  },
+  "86701050933:13126128603421320000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 41,
+    "fNumber": 4.5,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:47:24.000Z"
+  },
+  "86701051190:4872871887719730000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:47:41.000Z"
+  },
+  "86701051467:13454747460453028000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 4,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:48:58.000Z"
+  },
+  "86701051723:2359149596161613300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 4,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:48:58.000Z"
+  },
+  "86701051939:18016036166460223000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 41,
+    "fNumber": 4,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:49:05.000Z"
+  },
+  "86701052141:18099659148534150000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 41,
+    "fNumber": 4,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:49:09.000Z"
+  },
+  "86701053479:11218358132701123000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 55,
+    "fNumber": 4,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:49:17.000Z"
+  },
+  "86701053615:17165512090925298000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 4.5,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:50:16.000Z"
+  },
+  "86701053785:13520925688967025000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 4.5,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:50:18.000Z"
+  },
+  "86701053918:17738320857367855000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 4.5,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:50:28.000Z"
+  },
+  "86701054046:13947600809901558000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:50:30.000Z"
+  },
+  "86701054154:1050193456813165200": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 4.5,
+    "iso": 3200,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:50:38.000Z"
+  },
+  "86701054301:10003390282381756000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 24,
+    "fNumber": 4,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:52:35.000Z"
+  },
+  "86701054424:17112883063885726000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 24,
+    "fNumber": 4,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:52:41.000Z"
+  },
+  "86701055423:10737382349583684000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 24,
+    "fNumber": 4,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:52:42.000Z"
+  },
+  "86701055662:7746657179719328000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 24,
+    "fNumber": 4,
+    "iso": 3200,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:52:56.000Z"
+  },
+  "86701055884:9074773839105869000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 24,
+    "fNumber": 4,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:53:02.000Z"
+  },
+  "86701056058:9005676423239491000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 27,
+    "fNumber": 4,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:54:30.000Z"
+  },
+  "86701056213:7813034105675145000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 28,
+    "fNumber": 4,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:54:46.000Z"
+  },
+  "86701056423:11251708469310024000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 33,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:55:27.000Z"
+  },
+  "86701056598:2064060117561126000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 26,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:55:52.000Z"
+  },
+  "86701056786:840438902364586000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 25,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:56:05.000Z"
+  },
+  "86701057913:17760220991504361000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 24,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:56:27.000Z"
+  },
+  "86701058088:14764597396571290000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 24,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:57:00.000Z"
+  },
+  "86701058293:12034949231371614000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:59:37.000Z"
+  },
+  "86701058555:7934504562360672000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:59:51.000Z"
+  },
+  "86701058818:14921067351808633000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T00:59:53.000Z"
+  },
+  "86701059014:6903179559696479000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:01:52.000Z"
+  },
+  "86701059261:18111140384969769000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:01:55.000Z"
+  },
+  "86701059489:75047027997624770": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 31,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:02:32.000Z"
+  },
+  "86701060997:606341434884086800": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:02:51.000Z"
+  },
+  "86701061196:15394375211675904000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:03:22.000Z"
+  },
+  "86701061381:2761752859011021300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 38,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:04:44.000Z"
+  },
+  "86701061578:866494277538130300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 38,
+    "fNumber": 4.5,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:04:45.000Z"
+  },
+  "86701061914:305106056119445760": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 33,
+    "fNumber": 4.5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:05:35.000Z"
+  },
+  "86701062133:8919220145950500000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 61,
+    "fNumber": 4.5,
+    "iso": 3200,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:12:29.000Z"
+  },
+  "86701062353:9213811370748803000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 61,
+    "fNumber": 4.5,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:12:30.000Z"
+  },
+  "86701062550:10029332209998210000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:14:06.000Z"
+  },
+  "86701063842:11860644920284020000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:14:59.000Z"
+  },
+  "86701064048:4568222735111875000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 63,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:15:42.000Z"
+  },
+  "86701064260:17256014419188718000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 55,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:15:47.000Z"
+  },
+  "86701064517:15173909896274012000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 55,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:16:14.000Z"
+  },
+  "86701064729:3495572461558407000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:16:40.000Z"
+  },
+  "86701066414:16234346534753057000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 67,
+    "fNumber": 2.8,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:16:45.000Z"
+  },
+  "86701066663:683928427132378200": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 28,
+    "fNumber": 5,
+    "iso": 3200,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:20:11.000Z"
+  },
+  "86701066845:6149292323666159000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 24,
+    "fNumber": 4,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:22:01.000Z"
+  },
+  "86701067098:1462028021555602200": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 24,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:23:46.000Z"
+  },
+  "86701067295:8907753336310522000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 4.5,
+    "iso": 3200,
+    "shutter": "1/200",
+    "takenAt": "2025-10-17T01:26:30.000Z"
+  },
+  "89711648648:13108314905542736000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 38,
+    "fNumber": 2.8,
+    "iso": 250,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:00:22.000Z"
+  },
+  "89711648643:11783170506320420000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 45,
+    "fNumber": 2.8,
+    "iso": 250,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:00:41.000Z"
+  },
+  "89711648640:10515739559849124000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 55,
+    "fNumber": 2.8,
+    "iso": 320,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:00:55.000Z"
+  },
+  "89711648633:15588892765598222000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:02:02.000Z"
+  },
+  "89711648632:5824990799689060000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:02:10.000Z"
+  },
+  "89711648620:2307734815083269000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:03:23.000Z"
+  },
+  "89711648616:14436110918273987000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 45,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:03:33.000Z"
+  },
+  "89711648562:8734604144931883000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 28,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:03:55.000Z"
+  },
+  "89711648557:4593424607159213000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 45,
+    "fNumber": 2.8,
+    "iso": 320,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:04:33.000Z"
+  },
+  "89711648549:5017378619893427000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 67,
+    "fNumber": 2.8,
+    "iso": 320,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:04:38.000Z"
+  },
+  "89711648539:4384296128100244000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 63,
+    "fNumber": 2.8,
+    "iso": 400,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:04:49.000Z"
+  },
+  "89711648535:17694151433451473000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 41,
+    "fNumber": 2.8,
+    "iso": 320,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:05:43.000Z"
+  },
+  "89711648530:1909878534710176800": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 55,
+    "fNumber": 2.8,
+    "iso": 320,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:05:53.000Z"
+  },
+  "89711648518:17147005930768190000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 31,
+    "fNumber": 5,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:08:26.000Z"
+  },
+  "89711662486:8678043587195618000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:09:42.000Z"
+  },
+  "89711661819:17342421625977897000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 65,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:10:05.000Z"
+  },
+  "89711660917:3121260147247043600": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 45,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:10:51.000Z"
+  },
+  "89711660167:6040093271056226000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 31,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:11:11.000Z"
+  },
+  "89711658763:18354839976466348000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 63,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:12:09.000Z"
+  },
+  "89711648376:10497490294430052000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:12:14.000Z"
+  },
+  "89711648370:7435519373582926000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 5,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:12:47.000Z"
+  },
+  "89711648364:8695889032567994000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 5,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:14:03.000Z"
+  },
+  "89711648358:5923394859321222000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 42,
+    "fNumber": 5,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:15:37.000Z"
+  },
+  "89711648348:17939749186871270000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 33,
+    "fNumber": 5,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:16:17.000Z"
+  },
+  "89711648333:16811816228624376000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 5,
+    "iso": 640,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:16:46.000Z"
+  },
+  "89711648321:7688574079863563000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 41,
+    "fNumber": 5,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:17:15.000Z"
+  },
+  "89711648310:3307004953180542000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 31,
+    "fNumber": 5,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:18:07.000Z"
+  },
+  "89711648301:11176720279214232000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 25,
+    "fNumber": 5,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:18:57.000Z"
+  },
+  "89711648296:905313305578609000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/320",
+    "takenAt": "2026-06-11T01:19:25.000Z"
+  },
+  "89711648290:15671188081826138000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 61,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/320",
+    "takenAt": "2026-06-11T01:20:36.000Z"
+  },
+  "89711648284:822765927779747800": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 42,
+    "fNumber": 2.8,
+    "iso": 320,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:21:48.000Z"
+  },
+  "89711648278:12047965070379110000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 400,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:21:53.000Z"
+  },
+  "89711648273:12193378165525148000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 2.8,
+    "iso": 400,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:22:44.000Z"
+  },
+  "89711648268:5373281157936755000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 30,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T01:24:38.000Z"
+  },
+  "89711648653:12455213575033588000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 5,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2026-06-11T00:58:38.000Z"
+  },
+  "86701067499:10339710177749650000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:32:57.000Z"
+  },
+  "86701067662:6622415687502526000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 65,
+    "fNumber": 2.8,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:33:08.000Z"
+  },
+  "86701067824:16368979818728500000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:33:15.000Z"
+  },
+  "86701069165:9508592046866620000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 55,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:33:26.000Z"
+  },
+  "86701069453:9913458791559418000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 33,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:33:57.000Z"
+  },
+  "86701069520:234559379020829020": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 61,
+    "fNumber": 2.8,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:34:34.000Z"
+  },
+  "86701069869:12520757572552094000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 59,
+    "fNumber": 2.8,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:35:00.000Z"
+  },
+  "86701070121:6298316913006520000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:35:27.000Z"
+  },
+  "86701070443:17854264474394984000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:35:33.000Z"
+  },
+  "86701071895:2842904895911398000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 2.8,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:35:52.000Z"
+  },
+  "86701072119:14239100488593234000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:36:02.000Z"
+  },
+  "86701072290:1916386024600874000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:37:26.000Z"
+  },
+  "86701072515:15388255586157474000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:37:42.000Z"
+  },
+  "86701072766:2009812002407879700": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 47,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:37:56.000Z"
+  },
+  "86701073010:12729498381502523000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 41,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:38:18.000Z"
+  },
+  "86701073239:5417374688623505000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 63,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:39:06.000Z"
+  },
+  "86701073479:2454791810001974300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 59,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:39:15.000Z"
+  },
+  "86701074693:8266025505351129000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 53,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:39:25.000Z"
+  },
+  "86701074913:7997506108213006000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 28,
+    "fNumber": 5,
+    "iso": 4000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:40:40.000Z"
+  },
+  "86701075148:3635346605481934000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 31,
+    "fNumber": 5,
+    "iso": 6400,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:40:50.000Z"
+  },
+  "86701075363:6738768104646617000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 28,
+    "fNumber": 5,
+    "iso": 3200,
+    "shutter": "1/160",
+    "takenAt": "2024-01-28T02:46:43.000Z"
+  },
+  "86701075560:9185750234680894000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 28,
+    "fNumber": 5,
+    "iso": 2500,
+    "shutter": "1/160",
+    "takenAt": "2024-01-28T02:47:16.000Z"
+  },
+  "86701075749:4495585061783474700": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 5,
+    "iso": 3200,
+    "shutter": "1/160",
+    "takenAt": "2024-01-28T02:47:25.000Z"
+  },
+  "86701075969:17894027965629300000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 42,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/160",
+    "takenAt": "2024-01-28T02:48:40.000Z"
+  },
+  "86701077412:16795123128205206000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/160",
+    "takenAt": "2024-01-28T02:49:29.000Z"
+  },
+  "86701077636:3082572972645592600": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 57,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/160",
+    "takenAt": "2024-01-28T02:49:45.000Z"
+  },
+  "86701077790:7056491847427974000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 53,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/160",
+    "takenAt": "2024-01-28T02:49:49.000Z"
+  },
+  "86701078028:471915216724004100": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/160",
+    "takenAt": "2024-01-28T02:50:33.000Z"
+  },
+  "86701078214:9201937872411903000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 38,
+    "fNumber": 2.8,
+    "iso": 1250,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:50:55.000Z"
+  },
+  "86701078389:10952090899433940000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 67,
+    "fNumber": 2.8,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:51:16.000Z"
+  },
+  "86701078516:7557001541792018000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 1600,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:51:35.000Z"
+  },
+  "86701078615:3275881780434517500": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 63,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:55:31.000Z"
+  },
+  "86701079524:16815987100286593000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 61,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:55:33.000Z"
+  },
+  "86701079626:726448809472650500": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 57,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:55:52.000Z"
+  },
+  "86701079684:11924056024417137000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 59,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:56:04.000Z"
+  },
+  "86701079914:5514796244455110000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 59,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:56:10.000Z"
+  },
+  "86701080052:17157313295552424000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 33,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:56:47.000Z"
+  },
+  "86701080191:17029700886598510000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:56:54.000Z"
+  },
+  "86701080342:6115622383613309000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 35,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:56:55.000Z"
+  },
+  "86701081170:8853098167734247000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 33,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:57:02.000Z"
+  },
+  "86701081344:4598639165074211300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 24,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T02:57:50.000Z"
+  },
+  "86701081527:17873625042367097000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 59,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:00:37.000Z"
+  },
+  "86701081679:17315909034606604000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 38,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:00:43.000Z"
+  },
+  "86701081896:2393275460779438000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 61,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:02:34.000Z"
+  },
+  "86701082128:13267283603876737000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 67,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:02:44.000Z"
+  },
+  "86701082377:1596945246132405200": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 61,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:02:49.000Z"
+  },
+  "86701082612:15446665679116833000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 5.6,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:04:04.000Z"
+  },
+  "86701084184:11523603901655138000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 59,
+    "fNumber": 5.6,
+    "iso": 3200,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:04:34.000Z"
+  },
+  "86701084396:12487095176230146000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 59,
+    "fNumber": 5.6,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:04:58.000Z"
+  },
+  "86701084650:7298109410661278000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 5.6,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:05:08.000Z"
+  },
+  "86701084811:8835574608871304000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 5.6,
+    "iso": 2000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:05:36.000Z"
+  },
+  "86701085016:11070866320242315000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 53,
+    "fNumber": 5.6,
+    "iso": 4000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:06:09.000Z"
+  },
+  "86701085237:2455467014698895400": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 50,
+    "fNumber": 5.6,
+    "iso": 4000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:06:32.000Z"
+  },
+  "86701085426:1610199326170779000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 5.6,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:07:32.000Z"
+  },
+  "86701085631:15913629951148968000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 44,
+    "fNumber": 5.6,
+    "iso": 2500,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:07:34.000Z"
+  },
+  "86701086971:15762585692471228000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 59,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:08:37.000Z"
+  },
+  "86701087203:6456423187588899000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 53,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:08:56.000Z"
+  },
+  "86701087421:7032064283737405000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 53,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:09:06.000Z"
+  },
+  "86701087631:13615144110440544000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 53,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:10:23.000Z"
+  },
+  "86701087721:1717311357700593000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF24-70mm f/2.8L II USM",
+    "focalLength": 67,
+    "fNumber": 5.6,
+    "iso": 5000,
+    "shutter": "1/200",
+    "takenAt": "2024-01-28T03:12:01.000Z"
+  },
+  "86701088099:1729713346807206000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 130,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T04:34:08.000Z"
+  },
+  "86701088377:4822653119184507000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 142,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T04:34:19.000Z"
+  },
+  "86701089705:2482163171626985500": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 125,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T04:34:33.000Z"
+  },
+  "86701089890:2933219163196266500": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T04:34:36.000Z"
+  },
+  "86701090053:3608143988918829600": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T04:34:36.000Z"
+  },
+  "86701090260:12573404606894746000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T04:34:36.000Z"
+  },
+  "86701090497:9702289329434030000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T04:34:37.000Z"
+  },
+  "86701090704:3246284075103238000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 140,
+    "fNumber": 3.5,
+    "iso": 100,
+    "shutter": "1/1600",
+    "takenAt": "2023-11-27T04:35:22.000Z"
+  },
+  "86701090876:3994715894327367700": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 142,
+    "fNumber": 3.5,
+    "iso": 100,
+    "shutter": "1/1600",
+    "takenAt": "2023-11-27T04:35:23.000Z"
+  },
+  "86701091054:6024684546025098000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 142,
+    "fNumber": 3.5,
+    "iso": 100,
+    "shutter": "1/1600",
+    "takenAt": "2023-11-27T04:35:23.000Z"
+  },
+  "86701092079:15924377285743307000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 3.5,
+    "iso": 100,
+    "shutter": "1/1600",
+    "takenAt": "2023-11-27T04:35:24.000Z"
+  },
+  "86701092253:5756188518695154000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 145,
+    "fNumber": 3.5,
+    "iso": 100,
+    "shutter": "1/1600",
+    "takenAt": "2023-11-27T04:35:27.000Z"
+  },
+  "86701092445:5735670730635378000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 142,
+    "fNumber": 3.5,
+    "iso": 100,
+    "shutter": "1/1600",
+    "takenAt": "2023-11-27T04:35:29.000Z"
+  },
+  "86701092569:11716850488298211000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 88,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/1600",
+    "takenAt": "2023-11-27T04:36:32.000Z"
+  },
+  "86701092763:16080817203641549000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/1600",
+    "takenAt": "2023-11-27T04:36:36.000Z"
+  },
+  "86701092939:9255681108764203000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 3.5,
+    "iso": 250,
+    "shutter": "1/1600",
+    "takenAt": "2023-11-27T04:37:06.000Z"
+  },
+  "86701093152:16876846207919225000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 130,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/2000",
+    "takenAt": "2023-11-27T04:38:55.000Z"
+  },
+  "86701093978:1402020181060674300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 145,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/2000",
+    "takenAt": "2023-11-27T04:38:57.000Z"
+  },
+  "86701094149:11184406565896016000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 145,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/2000",
+    "takenAt": "2023-11-27T04:39:18.000Z"
+  },
+  "86701094307:15364112271839977000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:42:15.000Z"
+  },
+  "86701094437:1338972910749906000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 2.8,
+    "iso": 1000,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:42:15.000Z"
+  },
+  "86701094597:3797617571296351000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:42:16.000Z"
+  },
+  "86701094735:1668383829081444600": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 170,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:42:20.000Z"
+  },
+  "86701094884:12544951229677685000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 185,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:42:23.000Z"
+  },
+  "86701094986:7429061264935429000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 185,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:42:23.000Z"
+  },
+  "86701095719:8856055238922071000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 155,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:42:28.000Z"
+  },
+  "86701095883:13936283916003870000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 170,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:42:32.000Z"
+  },
+  "86701096028:10879173069378861000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 170,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:42:33.000Z"
+  },
+  "86701096157:11868817872433930000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 180,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:43:06.000Z"
+  },
+  "86701096356:13291583718604397000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 180,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:43:06.000Z"
+  },
+  "86701096583:7126628781872035000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 168,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:43:17.000Z"
+  },
+  "86701096737:6900394165728596000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 100,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:43:41.000Z"
+  },
+  "86701097096:4644003338857381000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 400,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:44:18.000Z"
+  },
+  "86701098001:8125169455837608000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 2.8,
+    "iso": 400,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:44:21.000Z"
+  },
+  "86701098236:12484721125930285000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 2.8,
+    "iso": 400,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:44:21.000Z"
+  },
+  "86701098454:5640240590909949000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 95,
+    "fNumber": 2.8,
+    "iso": 400,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:44:25.000Z"
+  },
+  "86701098677:12210202764197978000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 100,
+    "fNumber": 3.5,
+    "iso": 250,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:47:41.000Z"
+  },
+  "86701098874:16877629883757515000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 110,
+    "fNumber": 3.5,
+    "iso": 125,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:47:54.000Z"
+  },
+  "86701099096:12590697649395206000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 145,
+    "fNumber": 3.5,
+    "iso": 125,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:48:03.000Z"
+  },
+  "86701099345:624957043421297800": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 3.5,
+    "iso": 800,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:49:07.000Z"
+  },
+  "86701099570:9122253110569458000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 125,
+    "fNumber": 3.5,
+    "iso": 2000,
+    "shutter": "1/800",
+    "takenAt": "2023-11-27T04:54:19.000Z"
+  },
+  "86701100695:12724743768739623000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 3.5,
+    "iso": 400,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:54:38.000Z"
+  },
+  "86701100926:7866321413461587000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 160,
+    "fNumber": 3.5,
+    "iso": 320,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:54:40.000Z"
+  },
+  "86701101195:15212270819558758000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 3.5,
+    "iso": 500,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:55:02.000Z"
+  },
+  "86701101377:13574241158273827000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 3.5,
+    "iso": 500,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:55:03.000Z"
+  },
+  "86701101628:1084666862480955900": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 182,
+    "fNumber": 3.5,
+    "iso": 500,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:55:06.000Z"
+  },
+  "86701101819:7355373179718223000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 190,
+    "fNumber": 3.5,
+    "iso": 500,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:55:08.000Z"
+  },
+  "86701102071:653619321281393500": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 3.5,
+    "iso": 400,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:56:07.000Z"
+  },
+  "86701102243:3066115885500827600": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 3.5,
+    "iso": 400,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:56:11.000Z"
+  },
+  "86701103281:9641656161083804000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 125,
+    "fNumber": 3.5,
+    "iso": 320,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:56:27.000Z"
+  },
+  "86701103555:17022675053008974000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 155,
+    "fNumber": 3.5,
+    "iso": 320,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:56:35.000Z"
+  },
+  "86701103731:1281301715932714000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 165,
+    "fNumber": 3.5,
+    "iso": 320,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:56:41.000Z"
+  },
+  "86701103928:15874818825509600000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 75,
+    "fNumber": 3.5,
+    "iso": 250,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:56:49.000Z"
+  },
+  "86701104103:62657231371437304": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 75,
+    "fNumber": 3.5,
+    "iso": 250,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:56:51.000Z"
+  },
+  "86701104241:16621496326536841000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/160",
+    "takenAt": "2023-11-27T04:57:03.000Z"
+  },
+  "86701104462:14632369210411887000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 168,
+    "fNumber": 3.5,
+    "iso": 640,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:02:56.000Z"
+  },
+  "86701105537:15276079692491825000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 142,
+    "fNumber": 2.8,
+    "iso": 320,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:06:03.000Z"
+  },
+  "86701105695:5199556324449505000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 150,
+    "fNumber": 3.5,
+    "iso": 1000,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:06:57.000Z"
+  },
+  "86701105903:2965880981122231300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 3.5,
+    "iso": 1000,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:07:11.000Z"
+  },
+  "86701106072:205784874676591870": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 3.5,
+    "iso": 1250,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:07:29.000Z"
+  },
+  "86701106234:2293261341391854800": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 3.5,
+    "iso": 1250,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:07:29.000Z"
+  },
+  "86701106316:6930560921834042000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 168,
+    "fNumber": 3.5,
+    "iso": 250,
+    "shutter": "1/250",
+    "takenAt": "2023-11-27T05:11:31.000Z"
+  },
+  "86701106672:5234430767254254000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 180,
+    "fNumber": 3.5,
+    "iso": 250,
+    "shutter": "1/250",
+    "takenAt": "2023-11-27T05:11:32.000Z"
+  },
+  "86701108034:8660745775849904000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 115,
+    "fNumber": 3.5,
+    "iso": 250,
+    "shutter": "1/250",
+    "takenAt": "2023-11-27T05:12:07.000Z"
+  },
+  "86701108187:15231482250677934000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 115,
+    "fNumber": 3.5,
+    "iso": 250,
+    "shutter": "1/250",
+    "takenAt": "2023-11-27T05:12:07.000Z"
+  },
+  "86701108387:15180175933591095000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 115,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/250",
+    "takenAt": "2023-11-27T05:12:15.000Z"
+  },
+  "86701108578:6358797600146458000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 2.8,
+    "iso": 125,
+    "shutter": "1/400",
+    "takenAt": "2023-11-27T05:12:51.000Z"
+  },
+  "86701108685:17802030485786823000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 102,
+    "fNumber": 2.8,
+    "iso": 125,
+    "shutter": "1/400",
+    "takenAt": "2023-11-27T05:14:02.000Z"
+  },
+  "86701108828:9879954666688563000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 110,
+    "fNumber": 2.8,
+    "iso": 125,
+    "shutter": "1/400",
+    "takenAt": "2023-11-27T05:14:03.000Z"
+  },
+  "86701109004:12954737644429600000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 120,
+    "fNumber": 2.8,
+    "iso": 125,
+    "shutter": "1/400",
+    "takenAt": "2023-11-27T05:14:06.000Z"
+  },
+  "86701109164:8766052762751923000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 130,
+    "fNumber": 2.8,
+    "iso": 250,
+    "shutter": "1/400",
+    "takenAt": "2023-11-27T05:17:54.000Z"
+  },
+  "86701110215:12045789819702348000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 130,
+    "fNumber": 4,
+    "iso": 640,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:17:58.000Z"
+  },
+  "86701110409:2731138803988567000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 130,
+    "fNumber": 4,
+    "iso": 500,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:18:01.000Z"
+  },
+  "86701110566:4397641321130899000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 110,
+    "fNumber": 4,
+    "iso": 640,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:18:08.000Z"
+  },
+  "86701110813:11126943560091048000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 115,
+    "fNumber": 4,
+    "iso": 640,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:18:25.000Z"
+  },
+  "86701110990:4788403260885557000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 88,
+    "fNumber": 4,
+    "iso": 400,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:19:57.000Z"
+  },
+  "86701112033:16757472445410267000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 4,
+    "iso": 400,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:19:58.000Z"
+  },
+  "86701112218:2780336282939088000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 4,
+    "iso": 400,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:19:58.000Z"
+  },
+  "86701112430:6544443983581673000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 4,
+    "iso": 400,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:19:59.000Z"
+  },
+  "86701112627:11152488079916628000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 4,
+    "iso": 400,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:20:00.000Z"
+  },
+  "86701112818:16131340636449520000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 130,
+    "fNumber": 4,
+    "iso": 640,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:28:28.000Z"
+  },
+  "86701113077:7261869734961835000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 130,
+    "fNumber": 4,
+    "iso": 640,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:28:38.000Z"
+  },
+  "86701113319:11807225443264990000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 125,
+    "fNumber": 4,
+    "iso": 640,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:28:40.000Z"
+  },
+  "86701113511:9588758302928177000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 125,
+    "fNumber": 4,
+    "iso": 640,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:28:41.000Z"
+  },
+  "86701114343:8263723987716327000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 4,
+    "iso": 500,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:28:47.000Z"
+  },
+  "86701114514:8547326078765009000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 4,
+    "iso": 800,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:29:44.000Z"
+  },
+  "86701114659:13277186871661398000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 4,
+    "iso": 800,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:29:44.000Z"
+  },
+  "86701114868:6144754880586615000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 2.8,
+    "iso": 400,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:30:34.000Z"
+  },
+  "86701115053:10257127670056135000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:31:35.000Z"
+  },
+  "86701115232:2334886855152637000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 250,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:36:33.000Z"
+  },
+  "86701115542:18332338058564037000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 250,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:36:42.000Z"
+  },
+  "86701116959:11757331713518823000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 320,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:36:47.000Z"
+  },
+  "86701117243:1027900628706191500": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:37:03.000Z"
+  },
+  "86701117419:7575162162566609000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 400,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:37:34.000Z"
+  },
+  "86701117608:6056856072289733000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 80,
+    "fNumber": 7.1,
+    "iso": 2500,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:38:07.000Z"
+  },
+  "86701117873:18293590785290891000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 80,
+    "fNumber": 7.1,
+    "iso": 4000,
+    "shutter": "1/500",
+    "takenAt": "2023-11-27T05:38:11.000Z"
+  },
+  "86701118139:6361241153369047000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 5.6,
+    "iso": 200,
+    "shutter": "1/60",
+    "takenAt": "2023-11-27T05:39:33.000Z"
+  },
+  "86701118398:10101688887277860000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 115,
+    "fNumber": 4.5,
+    "iso": 320,
+    "shutter": "1/60",
+    "takenAt": "2023-11-27T05:41:12.000Z"
+  },
+  "86701118651:15173943750007523000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 125,
+    "fNumber": 4.5,
+    "iso": 320,
+    "shutter": "1/60",
+    "takenAt": "2023-11-27T05:41:19.000Z"
+  },
+  "86701120102:11962020389440158000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 4.5,
+    "iso": 500,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:07:31.000Z"
+  },
+  "86701120329:17555632413354265000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 4.5,
+    "iso": 500,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:07:33.000Z"
+  },
+  "86701120633:9926810157220700000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 155,
+    "fNumber": 4.5,
+    "iso": 500,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:07:38.000Z"
+  },
+  "86701120966:265526135895692800": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 168,
+    "fNumber": 4.5,
+    "iso": 400,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:07:47.000Z"
+  },
+  "86701121198:1115251003683091300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 150,
+    "fNumber": 4.5,
+    "iso": 400,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:08:19.000Z"
+  },
+  "86701121386:5777243091982418000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 155,
+    "fNumber": 4.5,
+    "iso": 400,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:08:21.000Z"
+  },
+  "86701121606:17045117477038588000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 4.5,
+    "iso": 320,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:08:59.000Z"
+  },
+  "86701122928:9818604418741119000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 4.5,
+    "iso": 200,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:09:12.000Z"
+  },
+  "86701123160:1606067596659960600": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 2.8,
+    "iso": 125,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:10:48.000Z"
+  },
+  "86701123447:1251419662904803000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 125,
+    "fNumber": 2.8,
+    "iso": 125,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:10:52.000Z"
+  },
+  "86701123669:9803109067654117000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 125,
+    "fNumber": 2.8,
+    "iso": 125,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:10:53.000Z"
+  },
+  "86701123913:5030916822955387000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 160,
+    "fNumber": 2.8,
+    "iso": 125,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:10:59.000Z"
+  },
+  "86701124110:6704755890118199000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 2.8,
+    "iso": 125,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:11:19.000Z"
+  },
+  "86701124286:16474044469132140000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 102,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:12:10.000Z"
+  },
+  "86701124504:2478956986068710400": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 95,
+    "fNumber": 2.8,
+    "iso": 400,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:12:19.000Z"
+  },
+  "86701125543:7966073950693024000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 95,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:12:20.000Z"
+  },
+  "86701125740:17008775041931993000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:12:23.000Z"
+  },
+  "86701125927:347561067178187200": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:12:35.000Z"
+  },
+  "86701126190:17067786417880525000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:12:36.000Z"
+  },
+  "86701126407:2961215043802409000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:12:51.000Z"
+  },
+  "86701126635:9335900098637806000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 640,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:12:52.000Z"
+  },
+  "86701126908:11880898729801480000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:12:53.000Z"
+  },
+  "86701128215:14562072074793730000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 2.8,
+    "iso": 800,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:14:25.000Z"
+  },
+  "86701128438:1327363117380960500": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 102,
+    "fNumber": 3.5,
+    "iso": 1000,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:14:39.000Z"
+  },
+  "86701128633:10166433830488404000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 102,
+    "fNumber": 3.5,
+    "iso": 1000,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:14:52.000Z"
+  },
+  "86701128817:13242814675697318000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 102,
+    "fNumber": 3.5,
+    "iso": 1000,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:14:52.000Z"
+  },
+  "86701128989:1219208322218953500": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 95,
+    "fNumber": 3.5,
+    "iso": 500,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:17:00.000Z"
+  },
+  "86701129162:12226557825910002000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 95,
+    "fNumber": 3.5,
+    "iso": 500,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:17:04.000Z"
+  },
+  "86701129318:3789675828904430000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 95,
+    "fNumber": 4.5,
+    "iso": 800,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:17:15.000Z"
+  },
+  "86701130457:13819585125919638000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 95,
+    "fNumber": 4.5,
+    "iso": 800,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:17:20.000Z"
+  },
+  "86701130603:911210800857020300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 125,
+    "fNumber": 4.5,
+    "iso": 640,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:24:05.000Z"
+  },
+  "86701130763:3579660970711310000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 125,
+    "fNumber": 4.5,
+    "iso": 640,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:24:05.000Z"
+  },
+  "86701130947:11225339863262806000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 125,
+    "fNumber": 4.5,
+    "iso": 500,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:24:22.000Z"
+  },
+  "86701131150:10149052780020470000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 120,
+    "fNumber": 4.5,
+    "iso": 640,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:24:41.000Z"
+  },
+  "86701131356:16382032545431353000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 4.5,
+    "iso": 640,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:26:03.000Z"
+  },
+  "86701131602:16082018056574525000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 180,
+    "fNumber": 4.5,
+    "iso": 640,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:26:23.000Z"
+  },
+  "86701131774:3247287971280463000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 170,
+    "fNumber": 4.5,
+    "iso": 640,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:26:44.000Z"
+  },
+  "86701132773:16404403809222334000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 4.5,
+    "iso": 500,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:27:25.000Z"
+  },
+  "86701133015:14297194541912110000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 102,
+    "fNumber": 4.5,
+    "iso": 500,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:28:14.000Z"
+  },
+  "86701133226:8104982515047933000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 145,
+    "fNumber": 4.5,
+    "iso": 500,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:28:43.000Z"
+  },
+  "86701133380:1397796443014765300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 88,
+    "fNumber": 4.5,
+    "iso": 800,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:32:31.000Z"
+  },
+  "86701133609:13785480289086198000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 88,
+    "fNumber": 4.5,
+    "iso": 800,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:32:32.000Z"
+  },
+  "86701133806:9923277176055882000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 90,
+    "fNumber": 4.5,
+    "iso": 800,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:32:59.000Z"
+  },
+  "86701134056:3295845585442616300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 70,
+    "fNumber": 4.5,
+    "iso": 640,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:35:43.000Z"
+  },
+  "86701134285:4547723200413197300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 130,
+    "fNumber": 2.8,
+    "iso": 250,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:38:50.000Z"
+  },
+  "86701135350:1233920840129194800": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 130,
+    "fNumber": 2.8,
+    "iso": 250,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:38:53.000Z"
+  },
+  "86701135664:948442820116103600": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 120,
+    "fNumber": 2.8,
+    "iso": 250,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:39:24.000Z"
+  },
+  "86701135896:104062911008137920": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 135,
+    "fNumber": 2.8,
+    "iso": 250,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:39:56.000Z"
+  },
+  "86701136117:7202393373088361000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 105,
+    "fNumber": 2.8,
+    "iso": 250,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:41:50.000Z"
+  },
+  "86701136259:2563968923457735700": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 90,
+    "fNumber": 3.5,
+    "iso": 400,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:42:13.000Z"
+  },
+  "86701136423:4374753537367337500": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 90,
+    "fNumber": 3.5,
+    "iso": 400,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:42:23.000Z"
+  },
+  "86701136619:9981458342203998000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 90,
+    "fNumber": 3.5,
+    "iso": 400,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:42:24.000Z"
+  },
+  "86701136886:9577087016222860000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 80,
+    "fNumber": 3.5,
+    "iso": 640,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:43:06.000Z"
+  },
+  "86701137881:4508580226634518000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 120,
+    "fNumber": 3.5,
+    "iso": 640,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:46:25.000Z"
+  },
+  "86701138237:11999552998462440000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 105,
+    "fNumber": 3.5,
+    "iso": 800,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:50:51.000Z"
+  },
+  "86701138487:8805567288309987000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 100,
+    "fNumber": 3.5,
+    "iso": 500,
+    "shutter": "1/1250",
+    "takenAt": "2024-04-04T05:51:56.000Z"
+  },
+  "86701138785:17039943445383942000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 100,
+    "fNumber": 3.5,
+    "iso": 500,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T05:52:23.000Z"
+  },
+  "86701138949:11099228724178410000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 100,
+    "fNumber": 3.5,
+    "iso": 500,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T05:52:25.000Z"
+  },
+  "86701139146:17302853843854190000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 100,
+    "fNumber": 3.5,
+    "iso": 640,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T05:53:35.000Z"
+  },
+  "86701139376:14817242401050915000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 88,
+    "fNumber": 3.5,
+    "iso": 500,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T05:53:51.000Z"
+  },
+  "86701140554:11328826220526313000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 95,
+    "fNumber": 4.5,
+    "iso": 1000,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T05:57:36.000Z"
+  },
+  "86701140788:1768810164312568600": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 130,
+    "fNumber": 4.5,
+    "iso": 400,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:00:22.000Z"
+  },
+  "86701140970:1447651923567383000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 142,
+    "fNumber": 4.5,
+    "iso": 320,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:00:25.000Z"
+  },
+  "86701141228:14104660529453818000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 168,
+    "fNumber": 4.5,
+    "iso": 1250,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:05:57.000Z"
+  },
+  "86701141448:6314425534702737000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 182,
+    "fNumber": 4.5,
+    "iso": 1250,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:06:05.000Z"
+  },
+  "86701141771:1889785963287744800": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 142,
+    "fNumber": 4.5,
+    "iso": 1000,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:09:51.000Z"
+  },
+  "86701141999:5133191449362915000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 190,
+    "fNumber": 4.5,
+    "iso": 1000,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:10:12.000Z"
+  },
+  "86701142247:1078372903685533000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 4.5,
+    "iso": 800,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:10:23.000Z"
+  },
+  "86701143890:6628514269115005000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 130,
+    "fNumber": 4.5,
+    "iso": 800,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:12:11.000Z"
+  },
+  "86701144125:3860187538935898600": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 142,
+    "fNumber": 4.5,
+    "iso": 800,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:12:35.000Z"
+  },
+  "86701144351:16097265774268890000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 155,
+    "fNumber": 4.5,
+    "iso": 640,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:12:53.000Z"
+  },
+  "86701144572:4743313821795557000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 88,
+    "fNumber": 4.5,
+    "iso": 1250,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:13:51.000Z"
+  },
+  "86701144741:11594972739307995000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 120,
+    "fNumber": 4.5,
+    "iso": 1000,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:13:55.000Z"
+  },
+  "86701145068:12498701881674023000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 88,
+    "fNumber": 4.5,
+    "iso": 1000,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:19:39.000Z"
+  },
+  "86701145309:752150321696696300": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 75,
+    "fNumber": 4.5,
+    "iso": 800,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:19:52.000Z"
+  },
+  "86701145542:14304097896331375000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 100,
+    "fNumber": 4.5,
+    "iso": 800,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:19:55.000Z"
+  },
+  "86701147238:10957736095751400000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 75,
+    "fNumber": 5,
+    "iso": 1000,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:20:00.000Z"
+  },
+  "86701147496:4547473741809399000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 102,
+    "fNumber": 5,
+    "iso": 1250,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:20:26.000Z"
+  },
+  "86701147937:14173133279443118000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 110,
+    "fNumber": 5,
+    "iso": 1000,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:20:36.000Z"
+  },
+  "86701148302:6072004084520931000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 123,
+    "fNumber": 5,
+    "iso": 1250,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:20:45.000Z"
+  },
+  "86701148603:1457254853804491500": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 120,
+    "fNumber": 5,
+    "iso": 1250,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:20:49.000Z"
+  },
+  "86701148889:2852234643034496500": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 102,
+    "fNumber": 2.8,
+    "iso": 500,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:21:34.000Z"
+  },
+  "86701149138:1234570419707393800": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 102,
+    "fNumber": 2.8,
+    "iso": 400,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:21:39.000Z"
+  },
+  "86701149522:7603712140469139000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 95,
+    "fNumber": 4.5,
+    "iso": 1000,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:21:53.000Z"
+  },
+  "86701151433:14524539619039982000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 4.5,
+    "iso": 1250,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:27:17.000Z"
+  },
+  "86701151805:7044523308846356000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 4.5,
+    "iso": 1250,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:27:22.000Z"
+  },
+  "86701152167:756257179560509000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 4.5,
+    "iso": 1000,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:30:24.000Z"
+  },
+  "86701152542:3864221513062538000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 75,
+    "fNumber": 5,
+    "iso": 1600,
+    "shutter": "1/800",
+    "takenAt": "2024-04-04T06:30:31.000Z"
+  },
+  "86701152813:9267027546135968000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 142,
+    "fNumber": 2.8,
+    "iso": 125,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T04:58:58.000Z"
+  },
+  "86701153137:4763041567606575000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 142,
+    "fNumber": 2.8,
+    "iso": 100,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T04:59:04.000Z"
+  },
+  "86701153396:11075556444448610000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 180,
+    "fNumber": 3.5,
+    "iso": 160,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T04:59:46.000Z"
+  },
+  "86701154598:10128861215808459000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 165,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:01:07.000Z"
+  },
+  "86701155126:12612023238243314000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 3.5,
+    "iso": 250,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:01:20.000Z"
+  },
+  "86701155479:2950018538942728000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 200,
+    "fNumber": 3.5,
+    "iso": 250,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:01:22.000Z"
+  },
+  "86701155754:16039609037302542000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 180,
+    "fNumber": 3.5,
+    "iso": 320,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:01:24.000Z"
+  },
+  "86701156039:539740941203303040": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 125,
+    "fNumber": 3.5,
+    "iso": 200,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:02:07.000Z"
+  },
+  "86701156327:12615443292590795000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 4.5,
+    "iso": 320,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:03:51.000Z"
+  },
+  "86701156668:6364931840899474000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 4.5,
+    "iso": 320,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:03:52.000Z"
+  },
+  "86701158416:9933909639491295000": {
+    "camera": "Canon EOS R6m2",
+    "lens": "EF70-200mm f/2.8L IS III USM",
+    "focalLength": 85,
+    "fNumber": 4.5,
+    "iso": 320,
+    "shutter": "1/500",
+    "takenAt": "2024-04-04T05:03:55.000Z"
   }
 }

@@ -4,9 +4,23 @@ import { scanAllMedia, getFileHeadBuffer } from "./pcloud.js";
 
 const EXIF_CACHE_PATH = "data/exif_cache.json";
 const MAX_EXIF_PER_RUN = Number(process.env.MAX_EXIF_PER_RUN || 500);
+const EXIF_TARGET_PATHS = [
+  "/My Pictures/sony_α7Ⅳ",
+  "/My Pictures/sony_α5000",
+  "/My Pictures/sony_α6000",
+  "/My Pictures/Children_Photo"
+];
 
 function isJpeg(file) {
   return file.contenttype === "image/jpeg" || /\.(jpg|jpeg)$/i.test(file.name || "");
+}
+
+function shouldReadExif(file) {
+  const filePath = file.path || "";
+
+  return EXIF_TARGET_PATHS.some((targetPath) =>
+    filePath.startsWith(targetPath)
+  );
 }
 
 function formatShutter(value) {
@@ -93,9 +107,10 @@ async function main() {
   let extracted = 0;
 
   for (const file of media) {
-    if (file.isVideo || !isJpeg(file)) {
-      continue;
-    }
+    if (file.isVideo || !isJpeg(file) || !shouldReadExif(file)) {
+          continue;
+
+        }
 
     const key = cacheKey(file);
 
