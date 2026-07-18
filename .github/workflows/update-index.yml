@@ -21,7 +21,7 @@ jobs:
       - name: Install packages
         run: npm ci
 
-        - name: Build and upload KV index
+      - name: Build and upload KV index
         env:
           PCLOUD_ACCESS_TOKEN: ${{ secrets.PCLOUD_ACCESS_TOKEN }}
           PCLOUD_HOSTNAME: ${{ secrets.PCLOUD_HOSTNAME }}
